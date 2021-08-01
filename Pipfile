@@ -4,6 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+jovian = "*"
+scikit-learn = "*"
+pandas = "*"
 
 [dev-packages]
 
